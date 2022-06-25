@@ -1,3 +1,5 @@
+package leetcode
+
 import "math"
 
 func mySqrt(x int) int {

@@ -1,3 +1,5 @@
+package leetcode
+
 import "sort"
 
 func equals(s1, s2 []int) bool {

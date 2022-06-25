@@ -1,3 +1,5 @@
+package leetcode
+
 import p "path"
 
 func simplifyPath(path string) string {

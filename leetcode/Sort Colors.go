@@ -1,3 +1,5 @@
+package leetcode
+
 func min(nums []int) (int, []int) {
 	index := 0
 	n := nums[index]

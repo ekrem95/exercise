@@ -1,3 +1,5 @@
+package leetcode
+
 func findPeakElement(nums []int) int {
 	length := len(nums)
 	if length == 1 {

@@ -1,3 +1,5 @@
+package leetcode
+
 func plusOne(digits []int) []int {
 	for i := len(digits) - 1; i > -1; i-- {
 		digits[i]++
